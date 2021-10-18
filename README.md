@@ -9,4 +9,4 @@ https://colawrr.github.io/Work-day-scheduler/
 
 # Screenshot
 
-[![screenshot.workday.calenar.jpg]
+![screenshot workday calendar](https://user-images.githubusercontent.com/89156347/137653153-c4b81e9b-71d2-42e3-833a-6c584585fbe0.jpg)
